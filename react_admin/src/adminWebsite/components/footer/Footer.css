@@ -1,8 +1,0 @@
-.main-footer{
-    margin-left:270px;
-}
-@media (max-width: 767px){
-.main-footer {
-    margin-left: AUTO;
-}
-}
